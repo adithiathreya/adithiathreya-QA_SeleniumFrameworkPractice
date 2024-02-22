@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="14.706">
+  <properties />
+  
+  
+            <testcase name="fetchData" time="4.156" classname="org.practice.automation.PracticeFetchDataAtRuntimeClass" />
+                <testcase name="fetchState" time="10.550" classname="org.practice.automation.PracticeFetchDataAtRuntimeClass" />
+      
+</testsuite>
